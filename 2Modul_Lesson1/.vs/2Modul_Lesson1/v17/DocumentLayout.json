@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "2Modul_Lesson1\\Services\\TestService.cs",
+              "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\TestService.cs",
+              "RelativeToolTip": "2Modul_Lesson1\\Services\\TestService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:04:13.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "2Modul_Lesson1\\Models\\Test.cs",
+              "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Models\\Test.cs",
+              "RelativeToolTip": "2Modul_Lesson1\\Models\\Test.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:03:55.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Program.cs",
               "RelativeDocumentMoniker": "2Modul_Lesson1\\Program.cs",
               "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Program.cs",
               "RelativeToolTip": "2Modul_Lesson1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T04:12:38.077Z",
               "EditorCaption": ""

@@ -1,0 +1,5 @@
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.AssemblyInfoInputs.cache
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.AssemblyInfo.cs
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.csproj.CoreCompileInputs.cache
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.sourcelink.json
