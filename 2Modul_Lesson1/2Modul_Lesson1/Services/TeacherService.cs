@@ -11,7 +11,7 @@ public class TeacherService
 
     public TeacherService()
     {
-        teacherFilePath = "../Data/Teachers.json";
+        teacherFilePath = "../../../Data/Teachers.json";
 
         if (File.Exists(teacherFilePath) is false)
         {

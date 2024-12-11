@@ -10,7 +10,7 @@ public class StudentService
 
     public StudentService()
     {
-        studentFilePath = "../Data/Students.json";
+        studentFilePath = "../../../Data/Students.json";
 
         if (File.Exists(studentFilePath) is false)
         {

@@ -10,7 +10,7 @@ public class TestService
 
     public TestService()
     {
-        testFilePath = "../Data/Test.json";
+        testFilePath = "../../../Data/Test.json";
 
         if (File.Exists(testFilePath) is false)
         {

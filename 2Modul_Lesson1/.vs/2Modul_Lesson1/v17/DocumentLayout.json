@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|solutionrelative:2modul_lesson1\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20464E60-5931-4989-9CE5-B4531A571E92}|2Modul_Lesson1\\2Modul_Lesson1.csproj|d:\\project\\2-modul_project\\2modulproject\\2modul_lesson1\\2modul_lesson1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "2Modul_Lesson1\\Models\\Student.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA1wBAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T04:31:35.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:31:35.791Z"
             },
             {
               "$type": "Document",
@@ -61,33 +60,33 @@
               "RelativeDocumentMoniker": "2Modul_Lesson1\\Services\\StudentService.cs",
               "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\StudentService.cs",
               "RelativeToolTip": "2Modul_Lesson1\\Services\\StudentService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAwAAAAyAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA8wAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T04:09:08.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TeacherService.cs",
               "DocumentMoniker": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\TeacherService.cs",
               "RelativeDocumentMoniker": "2Modul_Lesson1\\Services\\TeacherService.cs",
               "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\TeacherService.cs",
               "RelativeToolTip": "2Modul_Lesson1\\Services\\TeacherService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T03:58:07.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TestService.cs",
               "DocumentMoniker": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\TestService.cs",
               "RelativeDocumentMoniker": "2Modul_Lesson1\\Services\\TestService.cs",
               "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Services\\TestService.cs",
               "RelativeToolTip": "2Modul_Lesson1\\Services\\TestService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T09:04:13.261Z",
               "EditorCaption": ""
@@ -102,18 +101,17 @@
               "RelativeToolTip": "2Modul_Lesson1\\Models\\Test.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:03:55.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:03:55.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Program.cs",
               "RelativeDocumentMoniker": "2Modul_Lesson1\\Program.cs",
               "ToolTip": "D:\\Project\\2-Modul_Project\\2ModulProject\\2Modul_Lesson1\\2Modul_Lesson1\\Program.cs",
               "RelativeToolTip": "2Modul_Lesson1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAqwI8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T04:12:38.077Z",
               "EditorCaption": ""
