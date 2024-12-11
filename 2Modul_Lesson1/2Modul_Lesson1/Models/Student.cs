@@ -14,5 +14,5 @@ public class Student
 
     public string Gender { get; set; } // Jinsi
 
-    public List<int> Results { get; set; } // 
+    public List<double> Results { get; set; } = new List<double>();
 }

@@ -6,30 +6,32 @@ namespace _2Modul_Lesson1.Services;
 public class StudentService
 {
     private string studentFilePath;
+    private List<Student> _students;
 
     public StudentService()
     {
-        studentFilePath = "../../../Data/Students.json";
+        studentFilePath = "../Data/Students.json";
 
         if (File.Exists(studentFilePath) is false)
         {
             File.WriteAllText(studentFilePath, "[]");
         }
+
+        _students = new List<Student>();
+        _students = GetAllStudents();
     }
 
     public Student AddStudent(Student student)
     {
         student.Id = Guid.NewGuid();
-        var students = GetStudents();
-        students.Add(student);
-        SaveData(students);
+        _students.Add(student);
+        SaveData();
         return student;
     }
 
     public Student GetById(Guid studentId)
     {
-        var students = GetStudents();
-        foreach (var student in students)
+        foreach (var student in _students)
         {
             if (student.Id == studentId)
             {
@@ -42,30 +44,28 @@ public class StudentService
 
     public bool DeleteStudent(Guid studentId)
     {
-        var students = GetStudents();
         var studentFromDb = GetById(studentId);
         if (studentFromDb is null)
         {
             return false;
         }
 
-        students.Remove(studentFromDb);
-        SaveData(students);
+        _students.Remove(studentFromDb);
+        SaveData();
         return true;
     }
 
     public bool UpdateStudent(Student student)
     {
-        var students = GetStudents();
         var studentFromDb = GetById(student.Id);
         if (studentFromDb is null)
         {
             return false;
         }
 
-        var index = students.IndexOf(student);
-        students[index] = student;
-        SaveData(students);
+        var index = _students.IndexOf(studentFromDb);
+        _students[index] = student;
+        SaveData();
         return true;
     }
 
@@ -74,9 +74,9 @@ public class StudentService
         return GetStudents();
     }
 
-    private void SaveData(List<Student> students)
+    private void SaveData()
     {
-        var studentsJson = JsonSerializer.Serialize(students);
+        var studentsJson = JsonSerializer.Serialize(_students);
         File.WriteAllText(studentFilePath, studentsJson);
     }
 

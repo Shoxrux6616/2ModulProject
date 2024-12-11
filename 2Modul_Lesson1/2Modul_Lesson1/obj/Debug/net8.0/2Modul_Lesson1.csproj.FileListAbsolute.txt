@@ -3,3 +3,13 @@ D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug
 D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.AssemblyInfo.cs
 D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.csproj.CoreCompileInputs.cache
 D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.sourcelink.json
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\bin\Debug\net8.0\2Modul_Lesson1.exe
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\bin\Debug\net8.0\2Modul_Lesson1.deps.json
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\bin\Debug\net8.0\2Modul_Lesson1.runtimeconfig.json
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\bin\Debug\net8.0\2Modul_Lesson1.dll
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\bin\Debug\net8.0\2Modul_Lesson1.pdb
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.dll
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\refint\2Modul_Lesson1.dll
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.pdb
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\2Modul_Lesson1.genruntimeconfig.cache
+D:\Project\2-Modul_Project\2ModulProject\2Modul_Lesson1\2Modul_Lesson1\obj\Debug\net8.0\ref\2Modul_Lesson1.dll
